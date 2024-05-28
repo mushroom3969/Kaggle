@@ -1,5 +1,7 @@
 # Kaggle
 
-1.Sleep Health and Lifestyle Dataset - Analysis + Inference + Classification
+|Project Name          | Analysis | Inference | Prediction method | comment    |
+|----------------------|----------|-----------|-------------------|-------------|
+|Sleep Health and Lifestyle Dataset|      Classification|||
 
 2.Spaceship Titanic
