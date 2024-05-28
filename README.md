@@ -1,7 +1,10 @@
 # Kaggle
 
-|Project Name          | Analysis | Inference | Prediction method | comment    |
+|Project Name          | Analysis | Inference | Prediction Type |   comment   |
 |----------------------|----------|-----------|-------------------|-------------|
-|Sleep Health and Lifestyle Dataset|      Classification|||
+|Sleep Health and Lifestyle Dataset|   Y       |      Y     |         Classification          |  Practice           |
+|Spaceship Titanic                      |    Y      |     N      |       Classification            |      Practice       |
+|                      |          |           |                   |             |
+|                      |          |           |                   |             |
+|                      |          |           |                   |             |
 
-2.Spaceship Titanic
