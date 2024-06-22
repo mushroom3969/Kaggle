@@ -5,6 +5,10 @@
 |Sleep Health and Lifestyle Dataset|   Y       |      Y     |        Binary Classification          |  Practice (EDA+Inference+Sklearn_Model)          |
 |Spaceship Titanic                      |    Y      |     N      |      Binary Classification            |      Practice (EDA+process missing data+Sklearn_Model       |
 |LibriSpeech                      |    Y      |     N      |      Binary Classification            |      Practice       |
+|Imbalanced Personal Bank Loan               |    Y      |     N      |      Binary Classification            |      Practice       |
+|Banking Dataset - Marketing Target                     |    Y      |     N      |                 |      Practice       |
+|Bank Customer Segmentation (1M+Transaction)                      |    Y      |     N      |      Binary Classification            |      Practice       |
+|Data Science Bank Loan Linear regression                   |    Y      |     N      |      Linear regression            |      Practice       |
 |   Forest Cover Type Prediction                   |          |       Y     |      Multi-Classification        |   |
 |    COVID-19 project                  |          |     Y       |            Linear Regression        |   |
 |                      |          |     Y       |        Clustering      |   |
