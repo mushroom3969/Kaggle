@@ -12,7 +12,8 @@
 |Data Science Bank Loan Linear regression                   |    Y      |     N      |      Linear regression            |      Practice       ||
 |    COVID-19 project                  |          |     Y       |            Linear Regression        |   ||
 |       Marketing Analytics               |          |     Y       |        Clustering      |   ||
-|                      |          |     Y       |                   | NGS Analysis  ||
+|                      |          |     Y       |                   | NGS Analysis (FASTAQ)  ||
+|                      |          |     Y       |                   | NGS Analysis (BAM) ||
 |                      |          |    Y        |          Sentiment Analysis        |  || 
 |                      |          |    Y        |       CNN         |   ||
 |                      |          |    Y        |       RNN            |  ||
