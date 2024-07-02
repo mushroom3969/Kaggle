@@ -5,8 +5,8 @@
 |Sleep Health and Lifestyle Dataset|   Y       |      Y     |        Binary Classification          |  Practice (EDA+Inference+Sklearn_Model)          |https://www.kaggle.com/code/rueitinghong/sleep-health-and-lifestyle|
 |Spaceship Titanic                      |    Y      |     N      |      Binary Classification            |      Practice (EDA+process missing data+Sklearn_Model+XGB+catBoost)       |https://www.kaggle.com/code/rueitinghong/spaceship-titanic|
 |   Forest Cover Type Prediction                   |      Y    |       N     |      Multi-Classification        | Practice (EDA+Sklearn_Model+XGB+catBoost)  |https://www.kaggle.com/code/rueitinghong/forest-cover-type-prediction-with-lgbm|
-|LibriSpeech                      |    Y      |     N      |      Classification (fc+Dropout+BN)           |      Practice (Pytorch)      |https://www.kaggle.com/code/rueitinghong/libraphone-classification-ipynb|
-|LibriSpeech                      |    Y      |     N      |      Classification (RNN, LSTM)           |      Practice (Pytorch)      |https://www.kaggle.com/code/rueitinghong/libraphone-with-rnn-ipython/edit/run/186496484|
+|LibriSpeech                      |    N      |     N      |      Classification (fc+Dropout+BN)           |      Practice (Pytorch)      |https://www.kaggle.com/code/rueitinghong/libraphone-classification-ipynb|
+|LibriSpeech                      |    N      |     N      |      Classification (RNN, LSTM)           |      Practice (Pytorch)      |https://www.kaggle.com/code/rueitinghong/libraphone-with-rnn-ipython/edit/run/186496484|
 |Imbalanced Personal Bank Loan               |    Y      |     N      |      Binary Classification            |      Practice       ||
 |Superstore Marketing Campaign Dataset                     |    Y      |     N      |                 |      Practice       ||
 |Bank Customer Segmentation (1M+Transaction)                      |    Y      |     N      |      Clustering            |      Practice       ||
