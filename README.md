@@ -7,7 +7,7 @@
 |   Forest Cover Type Prediction                   |      Y    |       N     |      Multi-Classification        | Practice (EDA+Sklearn_Model+XGB+catBoost)  |https://www.kaggle.com/code/rueitinghong/forest-cover-type-prediction-with-lgbm|
 |LibriSpeech                      |    N      |     N      |      Classification (fc+Dropout+BN)           |      Practice (Pytorch)      |https://www.kaggle.com/code/rueitinghong/libraphone-classification-ipynb|
 |LibriSpeech                      |    N      |     N      |      Classification (RNN, LSTM)           |      Practice (Pytorch)      |https://www.kaggle.com/code/rueitinghong/libraphone-with-rnn-ipython/edit/run/186496484|
-|    COVID-19 project                  |     N     |     N       |            Regression Model (linear, rfregression, svr        |  Practice (Sklearn_Model)  ||
+|    COVID-19 project                  |     N     |     N       |            Regression Model (linear, rfregression, svr        |  Practice (Sklearn_Model)  |https://www.kaggle.com/code/rueitinghong/notebook0046e65cf1/edit/run/186956078|
 |    COVID-19 project                  |      N    |     N       |            Regression (DNN)        |   | Practice (Pytorch)|
 |Imbalanced Personal Bank Loan               |    Y      |     N      |      Binary Classification            |      Practice       ||
 |Superstore Marketing Campaign Dataset                     |    Y      |     N      |                 |      Practice       ||
