@@ -3,7 +3,7 @@
 |Project Name          | Analysis | Inference | Prediction Type |   comment   |Kaggle url|
 |----------------------|----------|-----------|-------------------|-------------|-----------|
 |Sleep Health and Lifestyle Dataset|   Y       |      Y     |        Binary Classification          |  EDA+Inference+Sklearn_Model         |https://www.kaggle.com/code/rueitinghong/sleep-health-and-lifestyle|
-|Spaceship Titanic                      |    Y      |     N      |      Binary Classification            |      Practice (EDA+process missing data+Sklearn_Model+XGB+catBoost)       |https://www.kaggle.com/code/rueitinghong/spaceship-titanic|
+|Spaceship Titanic                      |    Y      |     N      |      Binary Classification            |      Practice (EDA+process missing data+Sklearn_Model+XGB+catBoost)       |https://www.kaggle.com/code/rueitinghong/notebook4870bbabb1|
 |   Forest Cover Type Prediction                   |      Y    |       N     |      Multi-Classification        | EDA+Sklearn_Model+XGB+catBoost  |https://www.kaggle.com/code/rueitinghong/forest-cover-type-prediction-with-lgbm|
 |LibriSpeech                      |    N      |     N      |      Classification (fc+Dropout+BN)           |      Practice (Pytorch)      |https://www.kaggle.com/code/rueitinghong/libraphone-with-dnn/edit|
 |LibriSpeech                      |    N      |     N      |      Classification (RNN, LSTM)           |      Practice (Pytorch)      |https://www.kaggle.com/code/rueitinghong/libraphone-with-rnn-ipython/edit/run/186496484|
