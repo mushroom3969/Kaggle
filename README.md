@@ -14,17 +14,13 @@
 |Bank Customer Segmentation (1M+Transaction)                      |    Y      |     N      |      Clustering            |             ||
 |Data Science Bank Loan Linear regression                   |    Y      |     N      |      Linear regression            |             ||
 |       Marketing Analytics               |          |     Y       |        Clustering      |   ||
-|                      |          |     Y       |                   | NGS Analysis (FASTAQ)  ||
-|                      |          |     Y       |                   | NGS Analysis (BAM) ||
 |                      |          |    Y        |          Sentiment Analysis        |  || 
 |                      |          |    Y        |       CNN         |   ||
-|                      |          |    Y        |       RNN            |  ||
-|                      |          |    Y        |        LSTM           |  ||
-|                      |          |    Y        |        GRU           |  ||
+|                      |          |    Y        |       RNN, LSTM, GRU            |  ||
+|                      |          |     Y       |     Self-attention, transformer, LLM          |  ||
 |                      |          |    Y        |       GCN          |  ||
 |                      |          |    Y        |       AEs          |  ||
 |                      |          |    Y        |      Transfer Learning          |  ||
-|                      |          |     Y       |     Self-attention          |  ||
 |                      |          |     Y       |      Transformer          |  ||
 |                      |          |    Y        |     Generative Model            |  ||
 |                      |          |    Y        |       BERT            |  ||
