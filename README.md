@@ -11,7 +11,7 @@
 |    COVID-19 project                  |      N    |     N       |            Regression (DNN)        | Practice (Pytorch)  | https://www.kaggle.com/code/rueitinghong/covie-regression-dnn?scriptVersionId=187231908|
 |Imbalanced Personal Bank Loan               |    Y      |     N      |      Binary Classification (Resample data for modeling)           |      Sklearn_Model      |https://www.kaggle.com/code/rueitinghong/personal-loan-prediction-imbalance-data|
 |Superstore Marketing Campaign Dataset                     |    Y      |     N      |    Classification             |             ||
-|Bank Customer Segmentation (1M+Transaction)                      |    Y      |     N      |      Clustering            |             ||
+|Bank Customer Segmentation (1M+Transaction)                      |    Y      |     N      |      Clustering            |     **Uncomplete**        |https://www.kaggle.com/code/rueitinghong/customers-clustering|
 |Data Science Bank Loan Linear regression                   |    Y      |     N      |      Linear regression            |             ||
 |       Marketing Analytics               |          |     Y       |        Clustering      |   ||
 |                      |          |    Y        |          Sentiment Analysis        |  || 
