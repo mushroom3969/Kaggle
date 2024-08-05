@@ -15,7 +15,7 @@
 |Data Science Bank Loan Linear regression                   |    Y      |     N      |      Linear regression            |             ||
 |       Marketing Analytics               |          |     Y       |        Clustering      |   ||
 |                      |          |    Y        |          Sentiment Analysis        |  || 
-|                      |          |    Y        |       CNN         |   ||
+|         Food11 Classification             |    N      |    Y        |       CNN         | Practice(CNN, Rasnet)  |https://www.kaggle.com/code/rueitinghong/food-cnn|
 |                      |          |    Y        |       RNN, LSTM, GRU            |  ||
 |                      |          |     Y       |     Self-attention, transformer, LLM          |  ||
 |                      |          |    Y        |       GCN          |  ||
