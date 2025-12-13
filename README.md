@@ -1,35 +1,13 @@
-# Kaggle
+# Kaggle 📊 Data Science Project Portfolio
 
-|Project Name          | Analysis | Inference | Prediction Type |   comment   |Kaggle url|
-|----------------------|----------|-----------|-------------------|-------------|-----------|
-|Sleep Health and Lifestyle Dataset|   Y       |      Y     |        Binary Classification          |  EDA+Inference+Sklearn_Model         |https://www.kaggle.com/code/rueitinghong/sleep-health-and-lifestyle|
-|Spaceship Titanic                      |    Y      |     N      |      Binary Classification            |      Practice (EDA+process missing data+Sklearn_Model+XGB+catBoost)       |https://www.kaggle.com/code/rueitinghong/notebook4870bbabb1|
-|   Forest Cover Type Prediction                   |      Y    |       N     |      Multi-Classification        | EDA+Sklearn_Model+XGB+catBoost  |https://www.kaggle.com/code/rueitinghong/forest-cover-type-prediction-with-lgbm|
-|LibriSpeech                      |    N      |     N      |      Classification (fc+Dropout+BN)           |      Practice (Pytorch)      |https://www.kaggle.com/code/rueitinghong/libraphone-with-dnn/edit|
-|LibriSpeech                      |    N      |     N      |      Classification (RNN, LSTM)           |      Practice (Pytorch)      |https://www.kaggle.com/code/rueitinghong/libraphone-with-rnn-ipython/edit/run/186496484|
-|    COVID-19 project                  |     N     |     N       |            Regression Model (linear, rfregression, svr        |  Practice (Sklearn_Model)  |https://www.kaggle.com/code/rueitinghong/notebook0046e65cf1/edit/run/186956078|
-|    COVID-19 project                  |      N    |     N       |            Regression (DNN)        | Practice (Pytorch)  | https://www.kaggle.com/code/rueitinghong/covie-regression-dnn?scriptVersionId=187231908|
-|Imbalanced Personal Bank Loan               |    Y      |     N      |      Binary Classification (Resample data for modeling)           |      Sklearn_Model      |https://www.kaggle.com/code/rueitinghong/personal-loan-prediction-imbalance-data|
-|Superstore Marketing Campaign Dataset                     |    Y      |     N      |    Classification             |             ||
-|Bank Customer Segmentation (1M+Transaction)                      |    Y      |     N      |      Clustering            |     **Uncomplete**        |https://www.kaggle.com/code/rueitinghong/customers-clustering|
-|Data Science Bank Loan Linear regression                   |    Y      |     N      |      Linear regression            |             ||
-|       Marketing Analytics               |          |     Y       |        Clustering      |   ||
-|                      |          |    Y        |          Sentiment Analysis        |  || 
-|         Food11 Classification             |    N      |    Y        |       CNN         | Practice(CNN, Rasnet)  |https://www.kaggle.com/code/rueitinghong/food-cnn|
-|                      |          |    Y        |       RNN, LSTM, GRU            |  ||
-|                      |          |     Y       |     Self-attention, transformer, LLM          |  ||
-|                      |          |    Y        |       GCN          |  ||
-|                      |          |    Y        |       AEs          |  ||
-|                      |          |    Y        |      Transfer Learning          |  ||
-|                      |          |     Y       |      Transformer          |  ||
-|                      |          |    Y        |     Generative Model            |  ||
-|                      |          |    Y        |       BERT            |  ||
-|                      |          |    Y        |     Auto-encoder             |  ||
-|                      |          |    Y        |       Explainable AI            |  ||
-|                      |          |    Y        |       Attack            |  ||
-|                      |          |    Y        |       Adaptation            |  ||
-|                      |          |    Y        |       Reinforcement Learning            |  ||
-|                      |          |    Y        |       Network Compression           |  ||
-|                      |          |    Y        |      Life-long Learning            |  ||
-|                      |          |    Y        |       Meta Learning            |  ||
-|                      |          |    Y        |                   |  ||
+This table summarizes my technical projects on Kaggle, focusing on classification, regression, and deep learning.
+
+| Project Name | Analysis | Inference | Prediction Type | Key Techniques | Link |
+| :--- | :---: | :---: | :--- | :--- | :--- |
+| **Sleep Health and Lifestyle** | Y | Y | Binary Classification | EDA, Statistical Inference, Sklearn | [View](https://www.kaggle.com/code/rueitinghong/sleep-health-and-lifestyle) |
+| **Spaceship Titanic** | Y | N | Binary Classification | Missing Data Imputation, XGBoost, CatBoost | [View](https://www.kaggle.com/code/rueitinghong/notebook4870bbabb1) |
+| **Forest Cover Type** | Y | N | Multi-Classification | Advanced EDA, LightGBM, XGBoost | [View](https://www.kaggle.com/code/rueitinghong/forest-cover-type-prediction-with-lgbm) |
+| **Imbalanced Bank Loan** | Y | N | Binary Classification | SMOTE/Resampling, Model Evaluation | [View](https://www.kaggle.com/code/rueitinghong/personal-loan-prediction-imbalance-data) |
+| **Food11 Classification** | N | Y | CNN | Image Classification, ResNet, PyTorch | [View](https://www.kaggle.com/code/rueitinghong/food-cnn) |
+| **LibriSpeech (RNN)** | N | N | Classification | RNN, LSTM, Sequential Data Processing | [View](https://www.kaggle.com/code/rueitinghong/libraphone-with-rnn-ipython/edit/run/186496484) |
+| **COVID-19 DNN** | N | N | Regression | Deep Neural Networks, PyTorch | [View](https://www.kaggle.com/code/rueitinghong/covie-regression-dnn?scriptVersionId=187231908) |
